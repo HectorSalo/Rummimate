@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rummimate</string>
+    <string name="action_settings">Información</string>
+    <string name="home_fragment_label">Inicio</string>
+    <string name="results_fragment_label">Resultados</string>
+
+    <string name="hello_home_fragment">¡Bienvenido a Roomimate!\nTome una foto con su dispositivo y le brindaremos las mejores opciones para su siguiente jugada.</string>
+    <string name="send_image">Enviar foto</string>
+    <string name="hello_results_fragment">Estas son sus jugadas posibles</string>
+</resources>
